@@ -1,14 +1,12 @@
-# Proyecto de Análisis de la Venta de Productos Financieros
+# Proyecto de Análisis de Uso de Cajeros Automáticos
 
-Este proyecto se enfoca en analizar las ventas de productos financieros, como préstamos, 
-tarjetas de crédito, y cuentas de ahorro, para identificar patrones de comportamiento en 
-los clientes y prever ventas futuras basadas en datos históricos.
+Este proyecto tiene como objetivo analizar los patrones de uso de cajeros automáticos, identificar ubicaciones de alto tráfico y optimizar la colocación de los cajeros para maximizar la eficiencia de costos. Utilizando datos históricos de transacciones, se realiza un análisis exploratorio de datos, se identifican tendencias y se generan recomendaciones para mejorar la distribución de cajeros automáticos.
 
 ## Objetivos del Proyecto
-1. Determinar los factores que influyen en la venta de productos financieros.
-2. Analizar las características de los productos financieros más vendidos.
-3. Identificar patrones de comportamiento en los clientes.
-4. Predecir las ventas futuras de productos financieros.
+Analizar patrones de uso: Identificar tendencias y patrones en los datos de transacciones.
+Identificar ubicaciones de alto tráfico: Determinar cuáles cajeros tienen mayor actividad.
+Optimizar la colocación de cajeros: Proponer la mejor distribución de cajeros basada en los datos analizados.
+
 
 ## Estructura del Proyecto
 1. **Definir los objetivos**: Establecer metas claras y específicas.
@@ -17,9 +15,6 @@ los clientes y prever ventas futuras basadas en datos históricos.
 4. **Explorar y analizar los datos**: Realizar un análisis exploratorio y visualización de datos.
 5. 
 
-## Herramientas Utilizadas
-- **Lenguaje de Programación**: Python
-- **Bibliotecas**: BeautifulSoup, Scrapy, Selenium, pandas, numpy, Matplotlib, Seaborn, Plotly.
 
 ## Instalación
 ...
@@ -29,9 +24,7 @@ los clientes y prever ventas futuras basadas en datos históricos.
 
 ## Estructura del Repositorio
 
-## Conclusiones y Recomendaciones
-- **Conclusiones**: Resumen de los hallazgos clave.
-- **Recomendaciones**: Recomendaciones prácticas basadas en el análisis.
+
 
 ## Contacto
 Para cualquier consulta o sugerencia, por favor contacta a kenyer@me.com.
